@@ -10,7 +10,7 @@ public class WhileLoop {
 			i++;
 		}
 
-		System.out.println("New changes in develop branch");
+		
 	}
 
 }
